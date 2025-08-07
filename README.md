@@ -1,5 +1,5 @@
 
-# Lead Capture System - Expert Test Project
+# Fiver Expert Text Project
 
 ## Overview
 This document highlights the key features, bug fixes, and enhancements implemented in the Lead Capture System, built using React, TypeScript, Supabase, and AI-driven email automation.
